@@ -3,5 +3,5 @@
 ## Roadmap
 
 - [x] Blockchain
-- [ ] Encryption
+- [x] Encryption
 - [ ] Decentralisation
